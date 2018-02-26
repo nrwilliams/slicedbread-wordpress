@@ -1,0 +1,16 @@
+[24-Feb-2018 01:32:18 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user 'xpgraph6'@'localhost' (using password: NO) in /home/xpgraph6/public_html/slicedbread/wp-content/themes/instantwp/Redux/inc/tracking.php on line 365
+[24-Feb-2018 01:32:18 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/xpgraph6/public_html/slicedbread/wp-content/themes/instantwp/Redux/inc/tracking.php on line 365
+[24-Feb-2018 02:25:40 UTC] PHP Warning:  Illegal string offset 'logo' in /home/xpgraph6/public_html/slicedbread/wp-content/plugins/smart-logo-showcase-lite/inc/frontend/smls-shortcode.php on line 25
+[24-Feb-2018 02:25:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/xpgraph6/public_html/slicedbread/wp-content/plugins/smart-logo-showcase-lite/inc/frontend/smls-shortcode.php on line 25
+[25-Feb-2018 17:45:12 UTC] PHP Fatal error:  Call to undefined function author_profile_avatar_link() in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/page-templates/page_blog.php on line 25
+[25-Feb-2018 17:45:41 UTC] PHP Fatal error:  Call to undefined function author_profile_avatar_link() in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/page-templates/page_blog.php on line 25
+[25-Feb-2018 17:46:31 UTC] PHP Fatal error:  Call to undefined function author_profile_avatar_link() in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/page-templates/page_blog.php on line 25
+[25-Feb-2018 17:47:08 UTC] PHP Fatal error:  Call to undefined function author_profile_avatar_link() in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/page-templates/page_blog.php on line 25
+[25-Feb-2018 18:09:36 UTC] PHP Fatal error:  Call to undefined function author_profile_avatar_link() in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/page-templates/page_blog.php on line 24
+[25-Feb-2018 18:11:23 UTC] PHP Fatal error:  Call to undefined function author_profile_avatar_link() in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/page-templates/page_blog.php on line 24
+[25-Feb-2018 18:23:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/template-parts/content.php on line 18
+[25-Feb-2018 18:23:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/template-parts/content.php on line 18
+[26-Feb-2018 12:19:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/header.php on line 60
+[26-Feb-2018 12:26:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/header.php on line 93
+[26-Feb-2018 13:19:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ':' in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/header.php on line 77
+[26-Feb-2018 13:22:33 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ':' in /home/xpgraph6/public_html/slicedbread/wp-content/themes/rocked/header.php on line 77
